@@ -4,7 +4,7 @@
  <title>Matteo Testa</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-13T20:35:37+01:00</updated>
+ <updated>2020-03-13T20:38:11+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Matteo Testa</name>
@@ -28,6 +28,22 @@ my interests are realted to&lt;/p&gt;
   &lt;li&gt;xxzzz&lt;/li&gt;
 &lt;/ul&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TEST</title>
+   <link href="http://localhost:4000/2013/12/28/introducing-hyde/"/>
+   <updated>2013-12-28T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2013/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;TEST POST.&lt;/p&gt;
+
+&lt;h3 id=&quot;lorem-ipsum&quot;&gt;Lorem ipsum&lt;/h3&gt;
+&lt;p&gt;xxxxxx&lt;/p&gt;
+
+&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
+
+&lt;p&gt;sasasasasas&lt;/p&gt;
 </content>
  </entry>
  
