@@ -9,7 +9,7 @@ title:            Matteo Testa
 tagline:          'Machine learning research engineer'
 description:      'Machine Learning research engineer @ Unicredit'
 url:              https://www.matteotesta.it
-baseurl:          /
+baseurl:          https://www.matteotesta.it/
 
 author:
   name:           'Matteo Testa'
