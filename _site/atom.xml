@@ -4,7 +4,7 @@
  <title>Matteo Testa</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-13T20:38:11+01:00</updated>
+ <updated>2020-05-28T13:25:30+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Matteo Testa</name>
@@ -17,16 +17,22 @@
    <link href="http://localhost:4000/homecat/2018/06/06/main/"/>
    <updated>2018-06-06T00:00:00+02:00</updated>
    <id>http://localhost:4000/homecat/2018/06/06/main</id>
-   <content type="html">&lt;p&gt;I am Matteo Testa, a Machine Learning engineer at Unicredit R&amp;amp;D in Milan, Italy.
-my interests are realted to&lt;/p&gt;
+   <content type="html">&lt;p&gt;I am a Machine Learning research engineer at UniCredit. I received my PhD in Electronics and Telecommunications engineering from the Politecnico di Torino, Italy, in 2016.
+During my PhD, I spent a period at Universidad de Granada, Spain under the supervision of Prof. Rafael Molina where I worked on variational Bayesian inference for inverse imaging problems, e.g. inpainting and denoising.&lt;/p&gt;
 
-&lt;p&gt;If you are interested in my work, you can check my publications &lt;a href=&quot;http://localhost:4000/pubblications&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Before joining UniCredit, I spent 3 years at Politecnico di Torino, Italy (as a postdoc) where I worked on theoretical guarantees of random projections for security applications and Deep Learning approaches for secure biometric authentication and facial recognition.&lt;/p&gt;
 
-&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Paper accepted at ICML 2018&lt;span class=&quot;highlight-shape&quot;&gt;NEW&lt;/span&gt;&lt;/li&gt;
-  &lt;li&gt;xxzzz&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I am currently interested in the probabilistic charaterization of learning models as to provide confidence measures for decision-critical tasks employing, e.g. Bayesian NN.&lt;/p&gt;
+
+&lt;p&gt;My full CV can be found &lt;a href=&quot;http://localhost:4000/resume.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are interested in my work, you can check my publications &lt;a href=&quot;http://localhost:4000/publications&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+## News
+ - Paper accepted at ICML 2018&lt;span class=&quot;highlight-shape&quot;&gt;NEW&lt;/span&gt;
+ - xxzzz
+--&gt;
 
 </content>
  </entry>

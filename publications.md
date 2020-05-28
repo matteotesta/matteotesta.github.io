@@ -4,28 +4,21 @@ title: Pubblications
 categories: pubmain
 ---
 
-<p class="message">
-  List of my pubblications!
-</p>
+The full publications list can be found [here](https://scholar.google.it/citations?user=FW_kNZUAAAAJ&hl=en)
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Selected publications
 
-There are currently two themes built on Poole:
+**Deep learning for biometric authentication**
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Testa Matteo, et al. ["Learning mappings onto regularized latent spaces for biometric authentication"](https://arxiv.org/pdf/1911.08764.pdf) 2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP). IEEE, 2019.
+* Ali Arslan, Testa Matteo et al. ["Authnet: Biometric Authentication Through Adversarial Learning"](https://ieeexplore.ieee.org/abstract/document/8918810) 2019 IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP). IEEE, 2019
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Random projections for security**
 
-## Setup
+* Testa Matteo, et al. ["Compressed Sensing for Privacy-Preserving Data Processing"](https://link.springer.com/book/10.1007%2F978-981-13-2279-2) Springer, 2019.
+* Testa Matteo, Tiziano Bianchi, and Enrico Magli. ["Secrecy Analysis of Finite-Precision Compressive Cryptosystems"](https://iris.polito.it/retrieve/handle/11583/2752412/271921/test_TIFS2019_OA.pdf) IEEE Transactions on Information Forensics and Security 15 (2019): 1-13.
 
-Some fun facts about the setup of this project include:
+**Bayesian models for learning**
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* Testa Matteo, and Enrico Magli. ["Compressive Bayesian K-SVD"](https://www.sciencedirect.com/science/article/abs/pii/S0923596517301480) Signal Processing: Image Communication 60 (2018): 1-5.
+* Serra Juan G., Testa Matteo et al. ["Bayesian k-svd using fast variational inference"](https://iris.polito.it/retrieve/handle/11583/2671064/200945/2016_ImProc___BKSVD.pdf) IEEE Transactions on Image Processing 26.7 (2017): 3344-3359.
