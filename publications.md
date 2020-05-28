@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pubblications
+title: Publications
 categories: pubmain
 ---
 
