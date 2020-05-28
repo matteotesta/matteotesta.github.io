@@ -6,7 +6,7 @@ categories: pubmain
 
 The full publications list can be found [here](https://scholar.google.it/citations?user=FW_kNZUAAAAJ&hl=en)
 
-### Selected publications
+### Selected publications by topic
 
 **Deep learning for biometric authentication**
 
