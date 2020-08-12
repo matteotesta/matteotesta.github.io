@@ -22,6 +22,8 @@ version:          0.0.9
 
 github:
   repo:           https://github.com/poole/hyde
-  googleAnalytics: UA-120466923-1
+
+# Google services
+google_analytics: UA-120466923-2
 
 
